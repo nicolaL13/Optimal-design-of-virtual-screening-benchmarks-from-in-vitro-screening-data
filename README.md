@@ -9,7 +9,7 @@ This project shows a novel pipeline for benchmark dataset curation using PubChem
 # Setup 
 libraries required:
 - Pandas 
-- Beautiful Soup 
+- Beautifulsoup4 
 - requests
 - ast
 - csv
